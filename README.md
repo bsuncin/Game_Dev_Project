@@ -3,4 +3,4 @@
 The final project files and build for Game Dev.
 <br/>Files include:
 1. final project build
-2. Final sorce files
+2. Final source files
